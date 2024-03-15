@@ -1,0 +1,14 @@
+body{
+    background-color: #800040;
+}
+
+.titulo{
+    color: #efb810;
+    text-align: center;
+}
+
+#img_wonka{
+    width:50%;
+    height: 50%;
+    border-radius: 50%;
+}
